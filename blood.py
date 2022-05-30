@@ -13,7 +13,6 @@
 
 def warn(*args, **kwargs):
     pass
-import execjs
 import wget
 from itertools import count
 import shutil
