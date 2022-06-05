@@ -51,7 +51,7 @@ from flask import jsonify
 def checkExtraMethod():
     # Проверка TCP
     try:
-        ctcp = open('tcp.exe')
+        ctcp = open('tc.exe')
     except:
         print(Fore.MAGENTA + 'Downloading extra method..')
         wget.download('https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1NLUkyA5M-rKQnm6rBQrnwbZreonzFf8D')
