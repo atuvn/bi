@@ -1,6 +1,13 @@
 <div align=center>
+# SOMITIMES DELETED
+
  
-# Blood Deluxe DDoS
+ 
+ 
+ 
+ 
+ 
+ # Blood Deluxe DDoS
 
  DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, BFM, etc..)(It works intermittently. Working on it)<br/><br/>
  Don't attack any websites you don't own it<br/>
